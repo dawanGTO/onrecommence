@@ -1,0 +1,12 @@
+4-5 pages html avec des liens entre elles
+navbar
+header
+footer
+sidebar
+qq images
+1 formulaire
+1 tableau
+css
+structure projet
+git
+
