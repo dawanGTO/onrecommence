@@ -10,3 +10,10 @@ css
 structure projet
 git
 
+++
+aller verifier avec le W3C que votre site est au standard du web
+ajouter 1 page de detail si pas deja fait
+faire un formulaire permettant l'ajout d'element (voiture, voyage, biere, etc...)
+ajout d'un fil d'ariane
+pagination
+
